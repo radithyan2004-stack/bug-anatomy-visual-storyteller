@@ -300,5 +300,5 @@ if run_analysis:
 
 st.markdown("---")
 st.caption(
-    "Built for AI & Big Data Portfolios | Zero Database Infrastructure | Powered by Streamlit & Groq"
+    "Built by Adithyan | BUG Story Teller | The Van Helsing "
 )
